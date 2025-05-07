@@ -1,0 +1,6 @@
+🧪 Running Tests for: daily_steps
+✅ Visible Test Case 1 Passed: Create steps array
+✅ Visible Test Case 2 Passed: Calculate total steps
+✅ Visible Test Case 3 Passed: Calculate average steps
+❌ Visible Test Case 4 Failed: Days above target
+❌ Hidden Test Case 1 Failed: Handle empty input
