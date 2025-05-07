@@ -1,7 +1,0 @@
-🧪 Running Tests for: shopping_bill
-❌ Visible Test Case 1 Failed: Create price array (module 'solution' has no attribute 'create_price_array')
-❌ Visible Test Case 2 Failed: Calculate total cost (module 'solution' has no attribute 'calculate_total_cost')
-❌ Visible Test Case 3 Failed: Apply discount (module 'solution' has no attribute 'apply_discount')
-❌ Visible Test Case 4 Failed: Filter items above threshold (module 'solution' has no attribute 'filter_items_above_threshold')
-❌ Hidden Test Case 1 Failed: Discount edge logic (module 'solution' has no attribute 'apply_discount')
-❌ Hidden Test Case 2 Failed: Filter threshold edge (module 'solution' has no attribute 'filter_items_above_threshold')
