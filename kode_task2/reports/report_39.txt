@@ -1,0 +1,7 @@
+🧪 Running Tests for: ExamScoreAnalyzer
+
+❌ Visible Test Case 1 Failed: Exception in load_scores()
+❌ Visible Test Case 2 Failed: Exception in compute_summary()
+❌ Visible Test Case 3 Failed: Exception in get_passing_scores()
+❌ Hidden Test Case 1 Failed: Exception in assign_grades()
+❌ Hidden Test Case 2 Failed: Exception in assign_grades()

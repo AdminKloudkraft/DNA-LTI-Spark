@@ -1,0 +1,7 @@
+🧪 Running Tests for: exam_score
+❌ Visible Test Case 1 Failed: Create score array (module 'solution' has no attribute 'create_score_array')
+❌ Visible Test Case 2 Failed: Find passing scores (module 'solution' has no attribute 'find_passing_scores')
+❌ Visible Test Case 3 Failed: Calculate mean score (module 'solution' has no attribute 'calculate_mean_score')
+❌ Visible Test Case 4 Failed: Assign result labels (module 'solution' has no attribute 'assign_result_labels')
+❌ Hidden Test Case 1 Failed: Edge pass/fail separation (module 'solution' has no attribute 'assign_result_labels')
+❌ Hidden Test Case 2 Failed: Empty array handling (module 'solution' has no attribute 'find_passing_scores')

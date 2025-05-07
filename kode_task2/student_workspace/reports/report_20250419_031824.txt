@@ -1,0 +1,7 @@
+🧪 Running Tests for: exam_score
+✅ Visible Test Case 1 Passed: Create score array
+✅ Visible Test Case 2 Passed: Find passing scores
+❌ Visible Test Case 3 Failed: Calculate mean score
+✅ Visible Test Case 4 Passed: Assign result labels
+✅ Hidden Test Case 1 Passed: Edge pass/fail separation
+✅ Hidden Test Case 2 Passed: Empty array handling

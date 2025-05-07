@@ -1,0 +1,7 @@
+🧪 Running Tests for: ExamScoreAnalyzer
+
+✅ Visible Test Case 1 Passed: load_scores() works with input [45, 67, 89, 34]
+✅ Visible Test Case 2 Passed: compute_summary() returned correct summary
+✅ Visible Test Case 3 Passed: get_passing_scores() returned correct values
+❌ Hidden Test Case 1 Failed: assign_grades() incorrect
+❌ Hidden Test Case 2 Failed: assign_grades() incorrect for low scores

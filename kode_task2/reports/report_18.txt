@@ -1,0 +1,7 @@
+🧪 Running Tests for: ExamScoreAnalyzer
+
+❌ Visible Test Case 1 Failed: Load scores (module 'solution' has no attribute 'ExamScoreAnalyzer')
+❌ Visible Test Case 2 Failed: Compute summary (module 'solution' has no attribute 'ExamScoreAnalyzer')
+❌ Visible Test Case 3 Failed: Get passing scores (module 'solution' has no attribute 'ExamScoreAnalyzer')
+❌ Hidden Test Case 1 Failed: Assign grades (module 'solution' has no attribute 'ExamScoreAnalyzer')
+❌ Hidden Test Case 2 Failed: Handle failing scores (module 'solution' has no attribute 'ExamScoreAnalyzer')

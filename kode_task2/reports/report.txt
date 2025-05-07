@@ -1,0 +1,5 @@
+✅ Visible Test Case 1 Passed: load_scores() works with input [55, 89, 72, 100]
+✅ Visible Test Case 2 Passed: compute_summary() returned correct summary
+✅ Visible Test Case 3 Passed: get_passing_scores() returned correct values
+✅ Hidden Test Case 1 Passed: assign_grades() returned correct grades
+✅ Hidden Test Case 2 Passed: assign_grades() handles failing scores

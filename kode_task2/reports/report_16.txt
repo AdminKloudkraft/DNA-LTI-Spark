@@ -1,0 +1,7 @@
+🧪 Running Tests for: ExamScoreAnalyzer
+
+❌ Visible Test Case 1 Failed: Load scores
+❌ Visible Test Case 2 Failed: Compute summary (Expected 'Average: 79.0, Max: 100, Min: 55', got 'Average: 0.0, Max: 0, Min: 0')
+❌ Visible Test Case 3 Failed: Get passing scores
+❌ Hidden Test Case 1 Failed: Assign grades
+❌ Hidden Test Case 2 Failed: Handle failing scores

@@ -1,0 +1,7 @@
+🧪 Running Tests for: ExamScoreAnalyzer
+
+✅ Visible Test Case 1 Passed: Load scores
+✅ Visible Test Case 2 Passed: Compute summary
+✅ Visible Test Case 3 Passed: Get passing scores
+✅ Hidden Test Case 1 Passed: Assign grades
+✅ Hidden Test Case 2 Passed: Handle failing scores

@@ -1,0 +1,7 @@
+🧪 Running Independent Tests for: ExamScoreAnalyzer
+
+✅ Test 1 Passed: load_scores stores scores correctly
+✅ Test 2 Passed: compute_summary works correctly
+✅ Test 3 Passed: get_passing_scores filters correctly
+✅ Test 4 Passed: assign_grades assigns correct grades
+✅ Hidden Test Passed: compute_summary handles empty input

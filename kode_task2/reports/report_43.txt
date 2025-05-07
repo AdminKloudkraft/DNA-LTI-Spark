@@ -1,0 +1,7 @@
+🧪 Running Independent Tests for: ExamScoreAnalyzer
+
+❌ Test 1 Failed: load_scores did not return correct array
+❌ Test 2 Failed: compute_summary output incorrect
+❌ Test 3 Failed: get_passing_scores output incorrect
+❌ Test 4 Failed: assign_grades returned incorrect grades
+✅ Hidden Test Passed: compute_summary handles empty input

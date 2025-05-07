@@ -1,0 +1,7 @@
+🧪 Running Tests for: ExamScoreAnalyzer
+
+✅ Visible Test Case 1 Passed: Create scores array
+✅ Visible Test Case 2 Passed: Calculate total score
+✅ Visible Test Case 3 Passed: Calculate average score
+✅ Visible Test Case 4 Passed: Scores above threshold
+✅ Hidden Test Case 1 Passed: Handle empty input

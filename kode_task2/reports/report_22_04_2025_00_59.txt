@@ -1,0 +1,5 @@
+✅ Visible Test Case 1 Passed: Load scores
+✅ Visible Test Case 2 Passed: Compute average, max, min
+✅ Visible Test Case 3 Passed: Filter passing scores
+❌ Hidden Test Case 1 Failed: Assign grades correctly
+❌ Hidden Test Case 2 Failed: Handle F grade correctly
