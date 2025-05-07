@@ -1,0 +1,31 @@
+✅ Visible Test Case 1 Passed: create_price_array()
+✅ Visible Test Case 2 Passed: calculate_total_cost()
+❌ Visible Test Case 3 Error: apply_discount()
+Traceback (most recent call last):
+  File "d:\VSCode files\Final_work\Final_driver_solution_run_for_problem_statement\shopping_bill\secret_tests\driver.py", line 52, in test_student_code
+    if np.allclose(result, expected):
+       ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "D:\VSCode files\venv\Lib\site-packages\numpy\_core\numeric.py", line 2329, in allclose
+    res = all(isclose(a, b, rtol=rtol, atol=atol, equal_nan=equal_nan))
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VSCode files\venv\Lib\site-packages\numpy\_core\numeric.py", line 2447, in isclose
+    result = (less_equal(abs(x-y), atol + rtol * abs(y))
+                             ~^~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+
+❌ Hidden Test Case 1 Error: apply_discount()
+Traceback (most recent call last):
+  File "d:\VSCode files\Final_work\Final_driver_solution_run_for_problem_statement\shopping_bill\secret_tests\driver.py", line 65, in test_student_code
+    if np.allclose(result, expected):
+       ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "D:\VSCode files\venv\Lib\site-packages\numpy\_core\numeric.py", line 2329, in allclose
+    res = all(isclose(a, b, rtol=rtol, atol=atol, equal_nan=equal_nan))
+              ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\VSCode files\venv\Lib\site-packages\numpy\_core\numeric.py", line 2447, in isclose
+    result = (less_equal(abs(x-y), atol + rtol * abs(y))
+                             ~^~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'float'
+
+✅ Hidden Test Case 2 Passed: filter_items_above_threshold()
+
+🎯 TOTAL SCORE: 6/10

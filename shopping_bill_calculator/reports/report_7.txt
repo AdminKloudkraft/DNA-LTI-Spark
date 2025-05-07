@@ -1,0 +1,33 @@
+❌ Visible Test Case 1 Error: create_price_array()
+Traceback (most recent call last):
+  File "d:\VSCode files\Final_work\Final_driver_solution_run_for_problem_statement\shopping_bill\secret_tests\driver.py", line 25, in test_student_code
+    result = obj.create_price_array([100, 200, 300])
+             ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ShoppingBillCalculator' object has no attribute 'create_price_array'
+
+❌ Visible Test Case 2 Error: calculate_total_cost()
+Traceback (most recent call last):
+  File "d:\VSCode files\Final_work\Final_driver_solution_run_for_problem_statement\shopping_bill\secret_tests\driver.py", line 38, in test_student_code
+    result = obj.calculate_total_cost(np.array([100., 200.]), np.array([2, 1]))
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ShoppingBillCalculator' object has no attribute 'calculate_total_cost'
+
+❌ Visible Test Case 3 Error: apply_discount()
+Traceback (most recent call last):
+  File "d:\VSCode files\Final_work\Final_driver_solution_run_for_problem_statement\shopping_bill\secret_tests\driver.py", line 50, in test_student_code
+    result = obj.apply_discount(np.array([100., 200.]), 10)
+  File "d:\VSCode files\Final_work\Final_driver_solution_run_for_problem_statement\shopping_bill\student_workspace\solution.py", line 19, in apply_discount
+    if total > threshold:
+       ^^^^^^^^^^^^^^^^^
+ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+
+✅ Hidden Test Case 1 Passed: 100% Discount Edge
+❌ Hidden Test Case 2 Error: filter_items_above_threshold()
+Traceback (most recent call last):
+  File "d:\VSCode files\Final_work\Final_driver_solution_run_for_problem_statement\shopping_bill\secret_tests\driver.py", line 76, in test_student_code
+    result = obj.filter_items_above_threshold(np.array([30., 50., 100.]), 50)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ShoppingBillCalculator' object has no attribute 'filter_items_above_threshold'
+
+
+🎯 TOTAL SCORE: 2/10

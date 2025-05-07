@@ -1,0 +1,4 @@
+❌ Could not instantiate ShoppingBill class.
+module 'solution' has no attribute 'ShoppingBill'
+
+🎯 TOTAL SCORE: 0/10
