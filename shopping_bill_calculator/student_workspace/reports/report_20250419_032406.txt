@@ -1,7 +1,0 @@
-🧪 Running Tests for: shopping_bill
-✅ Visible Test Case 1 Passed: Create price array
-✅ Visible Test Case 2 Passed: Calculate total cost
-✅ Visible Test Case 3 Passed: Apply discount
-✅ Visible Test Case 4 Passed: Filter items above threshold
-❌ Hidden Test Case 1 Failed: Discount edge logic
-✅ Hidden Test Case 2 Passed: Filter threshold edge

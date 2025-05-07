@@ -1,7 +1,0 @@
-✅ Visible Test Case 1 Passed: create_price_array()
-✅ Visible Test Case 2 Passed: calculate_total_cost()
-✅ Visible Test Case 3 Passed: apply_discount()
-✅ Hidden Test Case 1 Passed: 100% Discount Edge
-✅ Hidden Test Case 2 Passed: filter_items_above_threshold()
-
-🎯 TOTAL SCORE: 10/10
