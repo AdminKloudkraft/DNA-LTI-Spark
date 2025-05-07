@@ -1,0 +1,5 @@
+🧪 Running Tests for: shopping_bill
+✅ create_price_array: Passed
+❌ calculate_total_cost: Incorrect return type
+✅ apply_discount: Passed
+✅ filter_items_above_threshold: Passed
